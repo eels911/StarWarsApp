@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="bad_connection">bad connection</string>
+    <string name="enter_movie_name">enter_movie_name</string>
+</resources>
